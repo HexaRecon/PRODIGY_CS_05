@@ -14,4 +14,5 @@ All packets are saved to a `.pcap` file for further analysis in Wireshark.
 
 ## 🚀 How to Run in Terminal
 ```bash
-sudo python3 packet_sniffer.py
+sudo python3 packet_sniffer_scapy.py
+
